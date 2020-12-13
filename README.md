@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshdangi&label=Profile%20views&color=0e75b6&style=flat" alt="niteshdangi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niteshdangi" alt="niteshdangi" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/nitesh_dangi_" target="blank"><img src="https://img.shields.io/twitter/follow/nitesh_dangi_?logo=twitter&style=for-the-badge" alt="nitesh_dangi_" /></a> </p>
 
 - 🌱 I’m currently learning **new technologies**
