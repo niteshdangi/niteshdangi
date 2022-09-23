@@ -8,11 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [niteshdangi.github.io](niteshdangi.github.io)
 
-- 💬 Ask me about **React, Python, Django, PHP**
+- 💬 Ask me about **React, React Native, JavaScript, TypeScript, Android, Python, Django**
 
 - 📫 How to reach me **niteshdangi28@gmail.com**
-
-- 📄 Know about my experiences [https://niteshdangi.github.io/static/media/NiteshKumarPublic.70455623.pdf](https://niteshdangi.github.io/static/media/NiteshKumarPublic.70455623.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
